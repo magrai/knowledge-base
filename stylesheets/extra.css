@@ -1,0 +1,20 @@
+.md-content__inner {
+	line-height: 120%
+}
+
+.md-typeset h1 {
+	color: #186eb4;
+	#font-weight: bold;
+	background:#ebf5fe;
+	padding:0px 10px;
+}
+
+.md-typeset h2 {
+	color: #186eb4;
+	#font-weight: bold;
+	#border-bottom: 2px solid #000;
+	background: #ebf5fe;
+	padding: 0px 10px;
+	margin-top: 50px
+
+}
